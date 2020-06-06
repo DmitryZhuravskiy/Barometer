@@ -1,2 +1,0 @@
-# Barometer
-Created with CodeSandbox
